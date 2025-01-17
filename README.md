@@ -1,12 +1,17 @@
+[Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallspic.com%2Fimage%2F138852-web_development-web_design-animation-illustration-world_wide_web&psig=AOvVaw1Rh_umE5Lj4nCN-Lo3iCbY&ust=1737176936525000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCIjt8MT--4oDFQAAAAAdAAAAABAE)
+
+
+
+
 # Hi there! 👋 I'm Rahul Kumar  
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a knack for building responsive, scalable, and user-friendly web applications.  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack                                                       
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, jQuery  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, jQuery         
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code, Heroku, Netlify  
