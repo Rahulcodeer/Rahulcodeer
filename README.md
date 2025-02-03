@@ -42,8 +42,8 @@ Showcasing my skills, projects, and achievements with responsive and engaging de
 
 ## 📈 GitHub Stats  
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar&layout=compact&theme=radical)  
+##![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkumar&show_icons=true&theme=radical)  
+##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar&layout=compact&theme=radical)  
 
 ---
 
