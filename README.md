@@ -1,53 +1,57 @@
+# 👋 Hello! I'm Rahul Kumar
 
-
-
-
-# Hi there! 👋 I'm Rahul Kumar  
-
-Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a knack for building responsive, scalable, and user-friendly web applications.  
+Welcome to my GitHub! I'm a passionate **MERN Stack Developer** focused on crafting scalable, high-performance web applications with clean, maintainable code.
 
 ---
 
-## 🛠️ Tech Stack                                                       
+## 💻 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, jQuery         
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Heroku, Netlify  
+**Frontend:**  
+HTML • CSS • JavaScript • React.js • Bootstrap • jQuery  
 
----
+**Backend:**  
+Node.js • Express.js  
 
-## 🚀 About Me  
+**Database:**  
+MongoDB  
 
-- 🎓 I'm currently pursuing **MCA**.  
-- 💼 Recently completed an internship at **Prodigy Technologies** as a Full Stack Developer.  
-- 🌟 I have expertise in developing full-stack applications, personal finance systems, education platforms, and more.  
-- 📚 Always eager to learn new technologies and take on challenging projects.  
+**Tools & Platforms:**  
+Git • GitHub • Postman • VS Code • Heroku • Netlify  
 
 ---
 
-## 🌟 Projects  
+## 🚀 About Me
 
-### [📂 Personal Finance Application](#)  
-A full-stack app for managing income, expenses, and savings, featuring real-time tracking and dynamic charts.  
-
-### [📂 Education Website](#)  
-An interactive platform with user roles, personalized dashboards, and progress tracking.  
-
-### [📂 Personal Portfolio](#)  
-Showcasing my skills, projects, and achievements with responsive and engaging design.  
-
----
-
+- 🎓 Completed **Master of Computer Applications (MCA)**  
+- 🧑‍💻 Completed a **Full Stack Developer Internship** at **Prodigy Technologies**  
+- 🛠️ Skilled in building full-stack solutions including:  
+  - Personal Finance Systems  
+  - Learning Management Platforms  
+  - Interactive Dashboards  
+- 🔍 Always exploring new technologies and development trends  
+- 🤝 Open to collaboration on exciting projects and open-source contributions  
 
 ---
 
-## 📫 Let's Connect  
+## 📂 Featured Projects
 
-- **LinkedIn:** https://www.linkedin.com/in/rahulkumar-4577871a9/
-- **Email:** rahulkumar.k.singh444@gmail.com 
-- **Portfolio:** [rahulkumar.dev](#)  
+### 🔹 [Personal Finance App](#)  
+A full-stack application for managing income, expenses, and savings. Features include real-time tracking, interactive charts, and secure authentication.
+
+### 🔹 [LMS – Education Platform](#)  
+An advanced learning management system with student/admin roles, dashboards, course progress, and assignment tracking.
+
+### 🔹 [Portfolio Website](#)  
+A responsive, modern portfolio to showcase my projects, skills, and professional experience.
 
 ---
 
-⭐️ _Feel free to explore my repositories and contribute to open-source projects!_  
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rahulkumar-4577871a9/)  
+- 📧 rahulkumar.k.singh444@gmail.com  
+- 🌐 [Portfolio Website](#)
+
+---
+
+⭐️ _Thank you for visiting! Feel free to explore my repositories or reach out for collaboration._  
